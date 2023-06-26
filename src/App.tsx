@@ -1,6 +1,6 @@
 import { useState } from "react";
 import usePasswordGenerator from "./hooks/usePasswordGenerator";
-import StrengthChecker from "./components/strengthChecker";
+import StrengthChecker from "./components/StrengthChecker";
 
 interface CheckboxItem {
   title: string;
